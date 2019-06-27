@@ -1,2 +1,2 @@
-# arcticcloud-statusmsgs.github.io
-Status messages embedded in Arctic Cloud frontend.
+# acdc-cloud-statusmsgs.github.io
+Github pages repo for Arctic Cloud.
