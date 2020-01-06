@@ -1,0 +1,15 @@
+{
+  "sample_ip_usage":false,
+  "sample_volume_usage":false,
+  "sample_compute_usage":false,
+  "sample_object_storage_usage":false,
+  "samples_archiver":false,
+  "gather_running_costs":false,
+  "sync_to_zoho":false,
+  "generate_invoices":false,
+  "invoices_to_stripe":false,
+  "email-dispatch-production":false,
+  "smoketest":false,
+  "smoketest-quick":false,
+  "smoketest-daily":false
+}
