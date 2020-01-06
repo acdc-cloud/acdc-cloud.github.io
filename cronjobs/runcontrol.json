@@ -1,0 +1,11 @@
+{
+  "sample_compute":true,
+  "sample_ip":true,
+  "sample_object_storage":true,
+  "sample_volume_storage":true,
+  "invoices_to_stripe":true,
+  "gather_running_costs":true,
+  "generate_invoices":true,
+  "email_dispatch":true,
+  "sync_to_zoho":true
+}
