@@ -7,7 +7,7 @@
   "gather_running_costs":false,
   "sync_to_zoho":false,
   "generate_invoices":false,
-  "invoices_to_stripe":true,
+  "invoices_to_stripe":false,
   "email-dispatch-production":false,
   "smoketest":false,
   "smoketest-quick":false,
